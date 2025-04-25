@@ -34,7 +34,7 @@ def communicate():
 
 # ユーザーインターフェイスの構築
 st.title("成長企業のリスクテイク戦略")
-st.write("ChatKKK：ChatGPT-4o (API)を使ったチャットボットです。")
+st.write("ChatKKK v3.0：ChatGPT-4o (API)を使ったチャットボットです。")
 st.write("※ ブラウザの自動翻訳機能を使用しないでください")
 st.image("startup_business_strategy.png")
 
