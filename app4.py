@@ -33,8 +33,8 @@ def communicate():
     clear_text_input()
 
 # ユーザーインターフェイスの構築
-st.title("成長企業のリスクテイク戦略")
-st.write("ChatGPT-4o (API)を使ったチャットボットです。")
+st.title("成長企業のリスクテイク戦略 v4.0")
+st.write("ChatGPT-4.5 (API)を使ったチャットボットです。")
 st.write("※ ブラウザの自動翻訳機能を使用しないでください")
 st.image("startup_business_strategy.png")
 
